@@ -1,0 +1,3 @@
+[submodule "COVID-Net"]
+	path = COVID-Net
+	url = https://github.com/lindawangg/COVID-Net.git
