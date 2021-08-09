@@ -65,7 +65,7 @@ special instructions:
 * TEST_PATH = "../../datasets/segmentation/NIH_test"
 * FOLDER_PATH = "../../segmentation_models/UNET_NIH_A_MODEL"
 
-# step 6.5 evaluate degmentation model (optional but recommended)
+# step 6.5 evaluate segmentation model (optional but recommended)
 * run /base/COVID_19_CXR_CLASSIFICATION/segmentation_scripts/eval_unet.py to get the performance metrics of the trained UNET model on the NIH test set and the Cohen Test set for segmentation
 expected performance:
 
